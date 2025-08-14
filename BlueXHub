@@ -1,3 +1,2 @@
 print("2")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BroHackOki/BlueXHub/refs/heads/main/Bluexhub"))()
-loadstring(game:HttpGet("https://pastefy.app/QAa9lDu0/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/UslhY4Uu/raw"))()
